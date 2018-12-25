@@ -1,0 +1,12 @@
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\bin\Release\Context Cleaner.exe.config
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\bin\Release\Context Cleaner.exe
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\bin\Release\Context Cleaner.pdb
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context Cleaner.csprojResolveAssemblyReference.cache
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context_Cleaner.Form1.resources
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context_Cleaner.Properties.Resources.resources
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context Cleaner.csproj.GenerateResource.cache
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context Cleaner.csproj.CoreCompileInputs.cache
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context Cleaner.exe
+c:\users\sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context Cleaner.pdb
+c:\Users\Sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context_Cleaner.AddContext.resources
+c:\Users\Sourcerer\source\repos\Context Cleaner\Context Cleaner\obj\Release\Context_Cleaner.Update.resources
